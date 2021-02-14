@@ -1,0 +1,4 @@
+Dans la fenêtre console du terminal:
+UTF8:
+
+chcp 65001
