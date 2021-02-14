@@ -38,11 +38,4 @@ public class DaysPerMonth
     }
 }
 
-Exo 3.1
-2
-3
-
-Exo 3.2
-
-
 
